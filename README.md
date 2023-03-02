@@ -106,6 +106,7 @@ The response should be a combination of hotels and flights, similar to the follo
 
 Try to test this endpoint without providing data for departureAirport or adjust fromDate to be any day between today’s date and 45 days from today, the response should be a Hotel only search where the FlightCode field is empty. 
 
+
 {
     "options": [
         {
